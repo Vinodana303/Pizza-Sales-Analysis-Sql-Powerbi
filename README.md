@@ -7,4 +7,5 @@
 
 [SQL Analysis-code](https://github.com/Vinodana303/Pizza-Sales-Analysis-Sql-Powerbi/blob/main/PIZZA%20SALES%20SQL%20QUERIES.docx)
 
-[Power BI Dashboard- click to view]
+[Power BI Dashboard- click to view](https://github.com/Vinodana303/Pizza-Sales-Analysis-Sql-Powerbi/blob/main/pizza_report1.png)
+[Power BI Dashboard- click to interact]
