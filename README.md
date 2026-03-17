@@ -1,6 +1,11 @@
-#  &nbsp;&nbsp;&nbsp;&nbsp; PIZZA SALES ANALYSIS
-![delicious-pizza-studio_23-2151846547](https://github.com/user-attachments/assets/8e61443c-8c84-4427-9243-cb957a48534b)
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PIZZA SALES ANALYSIS
 
+ Generated various Charts and Visuals on Power BI to identify trends/patterns and gain more insights into the data.
+   
+ <img width="1332" height="788" alt="image" src="https://github.com/user-attachments/assets/57d172b4-6720-4284-88ef-6ce01eb130e0" />
+
+ <img width="1331" height="792" alt="image" src="https://github.com/user-attachments/assets/96098900-0773-476d-91e0-ae48638d6cb2" />
+ 
 <h3>Tools used : Excel,MS SQL Server,Power BI</h3>
 
 [Dataset used](https://github.com/Vinodana303/Pizza-Sales-Analysis-Sql-Powerbi/blob/main/pizza_sales.csv)
@@ -197,11 +202,11 @@ Identifying the top 5 pizzas by total orders sheds light on the most frequently 
 
 Identifying the bottom 5 pizzas by total orders reveals less popular or niche pizza options that may require attention or adjustments. Understanding these trends allows businesses to make informed decisions regarding menu adjustments, promotional strategies, or inventory management to optimize sales and customer satisfaction  
 
+<h2>Conclusion</h2>
 
-13) Generated various Charts and Visuals on Power BI to identify trends/patterns and gain more insights into the data.
+By delving into various facets of the pizza sales dataset, a comprehensive understanding of consumer behavior and market trends was attained. The analysis unveiled key insights, including the identification of peak and off-peak periods based on daily and monthly order trends. This knowledge equips businesses with the ability to optimize staffing and inventory management to meet varying demand levels effectively. Additionally, the examination of sales distribution across different pizza categories shed light on customer preferences, aiding in menu optimization and marketing strategies to enhance sales performance.
 
-<img width="1332" height="788" alt="image" src="https://github.com/user-attachments/assets/57d172b4-6720-4284-88ef-6ce01eb130e0" />
-
+Moreover, calculating the average number of pizzas sold per order provided valuable insights into consumer behavior and consumption patterns, enabling businesses to tailor pricing strategies and portion sizes to maximize profitability and customer satisfaction. Overall, this analysis empowers the pizza establishment to make data-driven decisions, streamline operations, and enhance the overall customer experience, ensuring continued success in the competitive pizza market.
 
 
 
