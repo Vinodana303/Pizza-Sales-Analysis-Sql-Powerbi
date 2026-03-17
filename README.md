@@ -5,4 +5,6 @@
 
 [Dataset used](https://github.com/Vinodana303/Pizza-Sales-Analysis-Sql-Powerbi/blob/main/pizza_sales.csv)
 
-[SQL Analysis-code]
+[SQL Analysis-code](https://github.com/Vinodana303/Pizza-Sales-Analysis-Sql-Powerbi/blob/main/PIZZA%20SALES%20SQL%20QUERIES.docx)
+
+[Power BI Dashboard- click to view]
