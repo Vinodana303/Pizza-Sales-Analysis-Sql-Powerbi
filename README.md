@@ -200,6 +200,7 @@ Identifying the bottom 5 pizzas by total orders reveals less popular or niche pi
 
 13) Generated various Charts and Visuals on Power BI to identify trends/patterns and gain more insights into the data.
 
+<img width="1332" height="788" alt="image" src="https://github.com/user-attachments/assets/57d172b4-6720-4284-88ef-6ce01eb130e0" />
 
 
 
